@@ -29,14 +29,18 @@ I have written the code to utilize the system GPU if it is configured correctly.
 
 Below are some examples of the style transfer output.
 
-![](/examples/picasso.jpg)
-*Style Image*
+| <img src="/examples/picasso.jpg" width="250"> | 
+|:--:| 
+| *Style Image* |
 
-![](/examples/hard_scene.jpg)
-*Content Image*
+| <img src="/examples/hard_scene.jpg" width="250"> | 
+|:--:| 
+| *Content Image* |
 
-![](/examples/hard_scene_output.png)
-*Output Image*
+| <img src="/examples/hard_scene_output.png" width="250"> | 
+|:--:| 
+| *Output Image* |
 
-![](/examples/hard_scene_output_color.png)
-*Output Image with Color Preservation*
+| <img src="/examples/hard_scene_output_color.png" width="250"> | 
+|:--:| 
+| *Output Image with Color Preservation* |
